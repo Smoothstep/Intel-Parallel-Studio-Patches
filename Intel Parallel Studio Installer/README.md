@@ -1,0 +1,1 @@
+Might be cached at: C:/ProgramData/Intel/Installer/ParallelStudio/cache.
